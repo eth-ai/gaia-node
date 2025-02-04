@@ -1,0 +1,5 @@
+nohup.out
+qdrant_storage
+qdrant_snapshots
+nomic-embed-text-v1.5.f16.gguf
+paragraph_embed.wasm
